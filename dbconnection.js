@@ -3,8 +3,8 @@ var connection=mysql.createPool({
 
 host:'localhost',
 user:'root',
-password:'1234',
-database:'base'
+password:'admin12345',
+database:'mis_datos'
 
 
 });
